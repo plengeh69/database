@@ -1,0 +1,5 @@
+open.webp
+stikerku.webp
+gas.webp
+bot.webp
+apaiya.webp
